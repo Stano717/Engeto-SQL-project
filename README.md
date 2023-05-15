@@ -10,3 +10,6 @@ Nahrané boli nasledovné súbory:
  - Otazka_3.sql
  - Otazka_4.sql
  - Otazka_5.sql
+
+Data analyt - PowerBI project
+Dňa 15.5.2023 bola nahraná finálna verzia Power BI project
